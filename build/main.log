@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.12)  19 FEB 2025 01:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.12)  19 FEB 2025 17:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2037,8 +2037,53 @@ Overfull \vbox (10.28833pt too high) detected at line 115
 [16
 
 ]
-Overfull \hbox (30.0pt too wide) in paragraph at lines 119--119
+Overfull \hbox (30.0pt too wide) in paragraph at lines 157--157
 [][]  
+ []
+
+Missing character: There is no < in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 157.
+
+LaTeX Font Info:    Font shape `OML/zcochmi/m/it' will be
+(Font)              scaled to size 6.5pt on input line 157.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.5pt on input line 157.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.5pt on input line 157.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6.5> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 157.
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 157.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 157.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 157.
+
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <6.5> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 157.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <6.5> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 157.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.5pt on input line 157.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.5pt on input line 157.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.5pt on input line 157.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.5pt on input line 157.
+
+Overfull \hbox (3.84767pt too wide) in paragraph at lines 157--157
+ [] 
  []
 
 
@@ -2046,8 +2091,18 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 119--119
 [17
 
 ]
-Overfull \hbox (30.0pt too wide) in paragraph at lines 125--125
+Overfull \hbox (30.0pt too wide) in paragraph at lines 201--201
 [][]  
+ []
+
+
+Overfull \hbox (19.23174pt too wide) in paragraph at lines 201--201
+ [] 
+ []
+
+
+Overfull \hbox (22.93033pt too wide) in paragraph at lines 201--201
+ [] 
  []
 
 
@@ -2112,15 +2167,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52038 strings out of 473530
- 1167572 string characters out of 5714794
- 2137445 words of memory out of 5000000
- 74243 multiletter control sequences out of 15000+600000
- 693256 words of font info for 238 fonts, out of 8000000 for 9000
+ 52093 strings out of 473530
+ 1168756 string characters out of 5714794
+ 2138446 words of memory out of 5000000
+ 74291 multiletter control sequences out of 15000+600000
+ 706976 words of font info for 257 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,765b,2350s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/cochMI.pfb><C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/cochMRM.pfb><C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on c:\Users\lgmfo\OneDrive\Desktop\Slides\DLL-slides\build\main.pdf (22 pages, 112165 bytes).
+Output written on c:\Users\lgmfo\OneDrive\Desktop\Slides\DLL-slides\build\main.pdf (22 pages, 116648 bytes).
 PDF statistics:
  244 PDF objects out of 1000 (max. 8388607)
  51 named destinations out of 1000 (max. 500000)
