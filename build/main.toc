@@ -1,0 +1,5 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@sectionintoc {2}{Analysis}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Basic concepts}{6}{0}{2}
+\beamer@sectionintoc {3}{Design}{17}{0}{3}

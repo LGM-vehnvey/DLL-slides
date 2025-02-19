@@ -1,0 +1,55 @@
+\documentclass[14pt, aspectratio=169]{beamer}
+\usepackage{Mystyle}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{empheq}
+\usepackage{mdframed}
+\usepackage{booktabs}
+\usepackage{lipsum}
+\usepackage{color}
+\usepackage{psfrag}
+\usepackage{tikz, pgfplots}   % For plotting beautiful graphs
+\usepackage{bm}
+\usepackage[english]{babel}
+\usepackage{biblatex} 
+\usepackage{csquotes} 
+\usepackage{setspace}
+\usepackage{multicol}  
+\usepackage[skip=3pt plus 1pt, indent=30pt]{parskip}    % Setting space between paragraphs and indent
+\usepackage[T1]{fontenc}    % Output font encoding for international characters
+\usepackage{helvet}        % Selecting font family
+\usepackage{ragged2e}      % For text alignment
+\usepackage{adjustbox}       % For defining new environments
+\usepackage{fancyhdr}       % For defining headers and footers
+\usepackage[cochineal]{newtxmath}
+\usepackage{caption}
+\usetikzlibrary{positioning}
+\usetikzlibrary{intersections}
+\usetikzlibrary{decorations.text}
+\usetikzlibrary{decorations.pathreplacing}
+
+\usetheme{Copenhagen}
+\usecolortheme{beaver}
+\setbeamertemplate{navigation symbols}{}    % Remove navigation symbols
+\setbeamertemplate{headline}{}  %Remove headlines
+%\setbeamercovered{transparent}    % Transparent covered items
+
+
+\title{Delay-locked loop}
+\author{Luis Guillermo Macias Rojas}
+
+\begin{document}
+    \maketitle
+
+    \begin{frame}
+        \tableofcontents
+    \end{frame}
+
+    \input{Sections/Background}
+    \input{Sections/Analysis.tex}
+    \input{Sections/Design}
+
+\end{document}
