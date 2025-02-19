@@ -58,7 +58,7 @@
                     \draw (0,0) -- (0,1) -- (1,0.5) -- (0,0);   %buffer 1
                     \draw[ultra thick] (1, 0.5) -- (3.5,0.5);     %Transmission line
                     \draw (3.5,0) -- (3.5,1) -- (4.5,0.5) -- (3.5,0);   %buffer 2
-                    \draw (4,0.25) -- (4,-0.1) -- (3.8,-0.3) --(4,-0.5) -- (4.2,-0.3) node[anchor=west, inner sep=2pt] {\footnotesize V$_{control}$} -- (4,-0.1);
+                    \draw (4,0.25) -- (4,-0.1) -- (3.8,-0.3) --(4,-0.5) -- (4.2,-0.3) node[anchor=west, inner sep=2pt] {\footnotesize \textit{gm}$\cdot$\alert{V$_{control}$}} -- (4,-0.1);
                     \draw (4,-0.5) -- (4,-0.85);
                     \draw[->, thick] (4,-0.2) -- (4,-0.4);
                     \draw (-0.6,0.5) node[anchor=south]{\small CLK$_{in}$} -- (0,0.5) node[anchor=west]{\scriptsize B$_1$};
@@ -81,6 +81,8 @@
             \end{center}
         \end{columns}
     \end{frame}
+
+    \subsection{Blocks}
 
     \begin{frame}{DLL as a black box}
         
@@ -110,4 +112,14 @@
         \begin{block}{Why use a DLL at all?}<3->
             \onslide<4->Because of $\Delta_{t_{TL}}$ and the DLL's ability to generate multiple phases.
         \end{block}
+    \end{frame}
+
+    \begin{frame}{DLL block diagram}
+        DLL block diagram
+    \end{frame}
+
+    \subsection{Schematics}
+
+    \begin{frame}{PFD}
+        PFD schematic
     \end{frame}

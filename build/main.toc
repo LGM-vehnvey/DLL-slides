@@ -2,4 +2,6 @@
 \beamer@sectionintoc {1}{Background}{3}{0}{1}
 \beamer@sectionintoc {2}{Analysis}{6}{0}{2}
 \beamer@subsectionintoc {2}{1}{Basic concepts}{6}{0}{2}
-\beamer@sectionintoc {3}{Design}{17}{0}{3}
+\beamer@subsectionintoc {2}{2}{Blocks}{13}{0}{2}
+\beamer@subsectionintoc {2}{3}{Schematics}{18}{0}{2}
+\beamer@sectionintoc {3}{Design}{19}{0}{3}

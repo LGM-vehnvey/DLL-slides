@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.12)  19 FEB 2025 01:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.12)  19 FEB 2025 01:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1953,7 +1953,7 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 83--83
  []
 
 
-Overfull \hbox (6.45798pt too wide) in paragraph at lines 83--83
+Overfull \hbox (8.3049pt too wide) in paragraph at lines 83--83
  [] 
  []
 
@@ -1962,7 +1962,7 @@ Overfull \hbox (6.45798pt too wide) in paragraph at lines 83--83
 [10
 
 ]
-Overfull \hbox (6.45798pt too wide) in paragraph at lines 83--83
+Overfull \hbox (8.3049pt too wide) in paragraph at lines 83--83
  [] 
  []
 
@@ -1971,7 +1971,7 @@ Overfull \hbox (6.45798pt too wide) in paragraph at lines 83--83
 [11
 
 ]
-Overfull \hbox (6.45798pt too wide) in paragraph at lines 83--83
+Overfull \hbox (8.3049pt too wide) in paragraph at lines 83--83
  [] 
  []
 
@@ -1980,17 +1980,17 @@ Overfull \hbox (6.45798pt too wide) in paragraph at lines 83--83
 [12
 
 ]
-Overfull \hbox (30.0pt too wide) in paragraph at lines 113--113
+Overfull \hbox (30.0pt too wide) in paragraph at lines 115--115
 [][]  
  []
 
 
-Overfull \hbox (17.41023pt too wide) in paragraph at lines 113--113
+Overfull \hbox (17.41023pt too wide) in paragraph at lines 115--115
  [] 
  []
 
 
-Overfull \vbox (10.28833pt too high) detected at line 113
+Overfull \vbox (10.28833pt too high) detected at line 115
  []
 
 
@@ -1998,12 +1998,12 @@ Overfull \vbox (10.28833pt too high) detected at line 113
 [13
 
 ]
-Overfull \hbox (17.41023pt too wide) in paragraph at lines 113--113
+Overfull \hbox (17.41023pt too wide) in paragraph at lines 115--115
  [] 
  []
 
 
-Overfull \vbox (10.28833pt too high) detected at line 113
+Overfull \vbox (10.28833pt too high) detected at line 115
  []
 
 
@@ -2011,12 +2011,12 @@ Overfull \vbox (10.28833pt too high) detected at line 113
 [14
 
 ]
-Overfull \hbox (17.41023pt too wide) in paragraph at lines 113--113
+Overfull \hbox (17.41023pt too wide) in paragraph at lines 115--115
  [] 
  []
 
 
-Overfull \vbox (10.28833pt too high) detected at line 113
+Overfull \vbox (10.28833pt too high) detected at line 115
  []
 
 
@@ -2024,20 +2024,20 @@ Overfull \vbox (10.28833pt too high) detected at line 113
 [15
 
 ]
-Overfull \hbox (17.41023pt too wide) in paragraph at lines 113--113
+Overfull \hbox (17.41023pt too wide) in paragraph at lines 115--115
  [] 
  []
 
 
-Overfull \vbox (10.28833pt too high) detected at line 113
+Overfull \vbox (10.28833pt too high) detected at line 115
  []
 
 
 
 [16
 
-]) (Sections/Design.tex
-Overfull \hbox (30.0pt too wide) in paragraph at lines 14--14
+]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 119--119
 [][]  
  []
 
@@ -2046,12 +2046,30 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 14--14
 [17
 
 ]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 125--125
+[][]  
+ []
+
+
 
 [18
 
-]
+]) (Sections/Design.tex
+Overfull \hbox (30.0pt too wide) in paragraph at lines 14--14
+[][]  
+ []
+
+
 
 [19
+
+]
+
+[20
+
+]
+
+[21
 
 ]
 Overfull \hbox (30.0pt too wide) in paragraph at lines 23--23
@@ -2065,7 +2083,7 @@ Overfull \hbox (180.65587pt too wide) in paragraph at lines 23--23
 
 
 
-[20
+[22
 
 ])
 \tf@nav=\write8
@@ -2088,23 +2106,23 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 95C54A2C4C456932158FF6EB114B3926;379.
+(rerunfilecheck)             Checksum: DF1C9F9F4915787D6EB3F0B6FE1BED0D;575.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52021 strings out of 473530
- 1167399 string characters out of 5714794
+ 52038 strings out of 473530
+ 1167572 string characters out of 5714794
  2137445 words of memory out of 5000000
- 74233 multiletter control sequences out of 15000+600000
- 692039 words of font info for 237 fonts, out of 8000000 for 9000
+ 74243 multiletter control sequences out of 15000+600000
+ 693256 words of font info for 238 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,765b,2350s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/cochMI.pfb><C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/cochMRM.pfb><C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/lgmfo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on c:\Users\lgmfo\OneDrive\Desktop\Slides\DLL-slides\build\main.pdf (20 pages, 107729 bytes).
+Output written on c:\Users\lgmfo\OneDrive\Desktop\Slides\DLL-slides\build\main.pdf (22 pages, 112165 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 244 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 115 words of extra memory for PDF output out of 10000 (max. 10000000)
 
